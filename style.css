@@ -6,11 +6,11 @@
 }
 @font-face {
     font-family:"lemonmilk";
-    src: url(./fonts/LEMONMILK-Medium.otf);
+    src: url(./LEMONMILK-Medium.otf);
 }
 @font-face {
     font-family:"genty";
-    src: url(./fonts/GentyDemo-Regular.otf);
+    src: url(./GentyDemo-Regular.otf);
 }
 h1{
     margin-left: 30px;
