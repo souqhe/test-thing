@@ -12,6 +12,14 @@
     font-family:"genty";
     src: url(./GentyDemo-Regular.otf);
 }
+@media screen {
+    #boxes{
+    font-family: "lemonmilk";
+    margin-top: 5px;
+    justify-content: center;
+    display : flex;
+    }
+}
 h1{
     margin-left: 30px;
     font-family: "genty";
