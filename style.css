@@ -19,7 +19,7 @@ h1{
 }
 #end{
     font-family: "genty";
-    margin-left: 1150px;
+    margin-left: 1100px;
 }
 header{
     background-color: #6f1a2d;
@@ -27,7 +27,6 @@ header{
     height: 80px;
     display : flex;
     font-size: 25px;
-    align-items: flex-end;
 }
 body{
     background: linear-gradient(-180deg, #d88496 0 20%, #f6a2b4 20% 30%, #d88496 30% 40%,#f6a2b4 40% 50%, #d88496 50% 60%,#f6a2b4 60% 70%,#d88496 70% 80%,#f6a2b4 80% 90%,#d88496 90% 100%);
