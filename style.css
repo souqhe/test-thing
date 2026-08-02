@@ -64,7 +64,7 @@ body{
     height: 40px;
     background-color: #6f1a2d;
     font-size: 30px;
-    
+    overflow: auto;
 }
 #logs{
     margin-left: 100px;
